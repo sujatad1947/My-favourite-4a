@@ -1,0 +1,6 @@
+img:hover {
+    transform: scale(0.9);
+}
+.link {
+    float: left;
+}
